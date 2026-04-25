@@ -1,4 +1,5 @@
 ===================25/04===================
+
 File multiview_MDV_from_2json.ipynb đã tích hợp được 2D poses estimation từ 2 video để ra được bộ 3D poses. 
 Để chạy được file .ipynb đó, cần tải về thêm file MDVPose.zip tại đây: 
             https://drive.google.com/file/d/1mIxqbVryB9HaJyPDMQF0mq4Zsz-g-g8a/view?usp=drive_link
